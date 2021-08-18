@@ -14,6 +14,7 @@ First create a telegram bot using the bot father on telegram. It give you a toke
 * \add + "company" -> add company to the current user. Example: \add apple
 * \rem + "company" -> same for add, but remove
 * \update -> refresh list of company and their status
+* \help -> send commands availables
 
 # Pre requisites 📋
 
@@ -23,7 +24,6 @@ The project use SQLAlchemy with sqlite and python 3.7.3. For more details, see r
 
 * The bot only returns the daily technical parameters. It cannot be configured directly by the user (but yes, editing from db).
 * Add more functionalities.
-* Add the \help command.
 * Translate to english the bot (only spanish version for now).
 * Make more documentation.
 
