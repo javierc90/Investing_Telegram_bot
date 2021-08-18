@@ -1,0 +1,4 @@
+async-timeout==3.0.1
+investpy==1.0.7
+python-telegram-bot==13.7
+SQLAlchemy==1.4.22
